@@ -1,0 +1,1 @@
+Open user.bat to start the program
