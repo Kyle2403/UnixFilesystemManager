@@ -1,0 +1,5 @@
+root:/$ cd: No such file or directory
+root:/$ root:/$ cd: Destination is a file
+root:/$ root:/$ root:/$ root:/$ ky:/$ cd: Permission denied
+ky:/$ cd: Invalid syntax
+ky:/$ bye, ky

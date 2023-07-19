@@ -1,0 +1,11 @@
+cd a
+touch b
+cd b
+adduser ky
+mkdir c
+chmod o= c
+su ky
+cd c
+cd c c
+exit
+

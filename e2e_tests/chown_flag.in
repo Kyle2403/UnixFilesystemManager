@@ -1,0 +1,9 @@
+adduser ky
+mkdir -p a/b/c/d
+chown -r ky a
+ls -l
+ls -l a
+ls -l a/b
+ls -l a/b/c
+exit
+

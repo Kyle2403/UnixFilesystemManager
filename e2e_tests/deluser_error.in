@@ -1,0 +1,8 @@
+deluser ky
+deluser root
+adduser tan
+adduser le
+su tan
+deluser le
+deluser le tan
+exit

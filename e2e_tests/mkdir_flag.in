@@ -1,0 +1,7 @@
+mkdir -p a
+mkdir -p a/b/c
+ls
+ls a
+ls a/b
+exit
+

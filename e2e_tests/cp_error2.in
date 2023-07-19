@@ -1,0 +1,13 @@
+touch a
+mkdir -p b/c/d
+chmod -r o= b
+adduser ky
+su ky
+cp a /b/c/d/e
+su root
+chmod o= /
+su ky
+cp a /b/c/d/e
+cp !a !b
+exit
+

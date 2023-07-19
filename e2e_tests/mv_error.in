@@ -1,0 +1,15 @@
+mv a d
+touch a
+touch d
+mv a d
+mkdir c
+mv a c
+mkdir e
+mv e q
+mv a r/f
+chmod o= a
+adduser ky
+su ky
+mv a t
+exit
+

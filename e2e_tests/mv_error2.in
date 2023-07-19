@@ -1,0 +1,9 @@
+touch a
+mkdir b
+chmod o=rwx /
+adduser ky
+su ky
+mv a b/c
+mv a b c d
+exit
+

@@ -1,0 +1,7 @@
+touch a
+mkdir b
+mv a b/c
+cd b
+ls
+exit
+

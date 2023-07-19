@@ -1,0 +1,5 @@
+root:/$ root:/$ root:/$ d------ root a
+root:/$ root:/a$ d------ root b
+root:/a$ d------ root d
+root:/a$ ls: No such file or directory
+root:/a$ bye, root

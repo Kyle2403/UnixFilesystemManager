@@ -1,0 +1,13 @@
+touch a
+chmod =rwx a
+chmod u-+w a
+chmod i=rwx a
+chmod u=rtw a[D[D[D[D[Cwt[C[C[C[D
+adduser ky
+su ky
+chmod u=rwx a
+su root
+chmod u-x /
+chmod u+x a
+exit
+

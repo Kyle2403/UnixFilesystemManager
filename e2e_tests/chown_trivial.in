@@ -1,0 +1,5 @@
+adduser ky
+touch a
+chown ky a
+ls -l
+exit

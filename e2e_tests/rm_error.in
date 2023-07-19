@@ -1,0 +1,17 @@
+rm a
+mkdir a
+rm a
+touch a/b
+chmod o= a
+adduser ky
+su ky
+rm a/b
+rm a a a a
+su root
+chmod o=rwx a
+chmod o=rwx /
+chmod o= a/b
+su ky
+rm a/b
+exit
+

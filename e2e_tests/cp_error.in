@@ -1,0 +1,14 @@
+cp a d
+touch a
+touch d
+cp a d
+mkdir c
+cp a c
+mkdir e
+cp e q
+cp a r/f
+chmod o= a
+adduser ky
+su ky
+cp a t
+exit

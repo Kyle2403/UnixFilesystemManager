@@ -1,0 +1,19 @@
+touch a
+touch b
+chmod uoa+rwx a
+ls -l
+chmod uoa-rwx a
+ls -l
+chmod uoa=rwx b
+ls -l
+mkdir c
+chmod a=rwx c
+chmod a-rwx c
+ls -l
+chmod uoa=rwx c
+ls -l
+chmod uoa= c
+ls -l
+chmod uoa= b
+ls -l
+exit

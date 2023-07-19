@@ -1,0 +1,15 @@
+mkdir a
+chmod o= a
+adduser ky
+su ky
+ls a
+su root
+touch a/b
+su ky
+ls a/b
+su root
+mkdir f
+chmod o-x /
+su ky
+ls f
+exit

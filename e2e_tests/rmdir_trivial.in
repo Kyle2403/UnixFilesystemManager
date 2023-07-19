@@ -1,0 +1,6 @@
+mkdir a
+ls
+rmdir a
+ls
+exit
+

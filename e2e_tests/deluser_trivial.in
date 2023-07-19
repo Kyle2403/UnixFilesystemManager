@@ -1,0 +1,5 @@
+adduser ky
+deluser ky
+su ky
+exit
+

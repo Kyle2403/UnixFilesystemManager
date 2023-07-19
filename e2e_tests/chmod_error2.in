@@ -1,0 +1,8 @@
+touch a
+chmod a=rwt a
+adduser ky
+chown ky a
+chmod o= /
+su ky
+chmod o=rwx a
+exit

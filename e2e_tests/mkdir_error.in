@@ -1,0 +1,5 @@
+mkdir a
+mkdir a/b/c
+mkdir a
+exit
+

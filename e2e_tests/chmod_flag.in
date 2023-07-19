@@ -1,0 +1,9 @@
+mkdir -p a/b/c/d
+chmod -r a= /
+ls -l
+cd a
+ls -l
+ls -l b/c
+ls -l a/b
+exit
+

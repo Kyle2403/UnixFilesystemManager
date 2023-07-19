@@ -1,0 +1,6 @@
+root:/$ rm: No such file
+root:/$ root:/$ rm: Is a directory
+root:/$ root:/$ root:/$ root:/$ ky:/$ rm: Permission denied
+ky:/$ rm: Invalid syntax
+ky:/$ root:/$ root:/$ root:/$ root:/$ ky:/$ rm: Permission denied
+ky:/$ bye, ky

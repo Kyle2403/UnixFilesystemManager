@@ -1,0 +1,4 @@
+root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ root:/$ root:/$ ky:/$ touch: Permission denied
+ky:/$ touch: Invalid syntax
+ky:/$ bye, ky

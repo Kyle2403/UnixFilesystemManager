@@ -1,0 +1,7 @@
+root:/$ cp: No such file
+root:/$ root:/$ root:/$ cp: File exists
+root:/$ root:/$ cp: Destination is a directory
+root:/$ root:/$ cp: Source is a directory
+root:/$ cp: No such file or directory
+root:/$ root:/$ root:/$ ky:/$ cp: Permission denied
+ky:/$ bye, ky

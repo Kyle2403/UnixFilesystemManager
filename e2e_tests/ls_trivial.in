@@ -1,0 +1,10 @@
+mkdir a
+mkdir "a b"
+mkdir "a c
+ls -d a
+ls -d -a a
+ls -d -l a
+touch e
+ls -l -a e
+ls -l e
+exit

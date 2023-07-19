@@ -1,0 +1,7 @@
+mkdir -p a/b
+chmod o+w a/b
+adduser ky
+su ky
+mkdir a/b/c
+exit
+

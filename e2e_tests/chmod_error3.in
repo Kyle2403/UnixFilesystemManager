@@ -1,0 +1,12 @@
+adduser ky
+su ky
+ls /
+su root
+touch a
+chmod -l a
+chmod u+r !a
+chmod a a a
+chmod
+chmod u-r !a
+exit
+

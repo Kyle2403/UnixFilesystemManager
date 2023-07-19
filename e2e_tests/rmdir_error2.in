@@ -1,0 +1,7 @@
+mkdir a
+chmod o= /
+adduser ky
+su ky
+rmdir a
+exit
+

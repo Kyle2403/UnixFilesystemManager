@@ -1,0 +1,9 @@
+mkdir -p a/b
+adduser ky
+su ky
+mkdir a/b/c
+mkdir "a!
+mkdir t e
+mkdir
+exit
+

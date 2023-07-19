@@ -1,0 +1,4 @@
+mkdir -p -p a/b/c
+ls !a
+ls -l -l -a a b
+exit

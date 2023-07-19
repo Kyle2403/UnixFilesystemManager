@@ -1,0 +1,9 @@
+rmdir /
+rmdir a
+touch b
+rmdir b
+mkdir -p c/d
+rmdir c
+rmdir @a
+exit
+

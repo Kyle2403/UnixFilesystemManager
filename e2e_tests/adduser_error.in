@@ -1,0 +1,7 @@
+adduser ky
+adduser ky
+su ky
+adduser le
+adduser tan ky
+exit
+

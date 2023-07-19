@@ -1,0 +1,10 @@
+chown le a
+adduser le
+chown le a
+touch a
+su le
+chown le a
+chown le a f
+chown
+exit
+

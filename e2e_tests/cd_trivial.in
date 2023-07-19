@@ -1,0 +1,6 @@
+mkdir -p a/b
+cd a
+cd ..
+cd a/b
+exit
+

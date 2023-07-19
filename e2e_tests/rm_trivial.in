@@ -1,0 +1,4 @@
+touch a
+rm a
+ls
+exit

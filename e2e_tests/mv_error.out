@@ -1,0 +1,7 @@
+root:/$ mv: No such file
+root:/$ root:/$ root:/$ mv: File exists
+root:/$ root:/$ mv: Destination is a directory
+root:/$ root:/$ mv: Source is a directory
+root:/$ mv: No such file or directory
+root:/$ root:/$ root:/$ ky:/$ mv: Permission denied
+ky:/$ bye, ky

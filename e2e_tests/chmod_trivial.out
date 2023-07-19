@@ -1,0 +1,19 @@
+root:/$ root:/$ root:/$ root:/$ -rwxrwx root a
+-rw-r-- root b
+root:/$ root:/$ ------- root a
+-rw-r-- root b
+root:/$ root:/$ ------- root a
+-rwxrwx root b
+root:/$ root:/$ root:/$ root:/$ ------- root a
+-rwxrwx root b
+d------ root c
+root:/$ root:/$ ------- root a
+-rwxrwx root b
+drwxrwx root c
+root:/$ root:/$ ------- root a
+-rwxrwx root b
+d------ root c
+root:/$ root:/$ ------- root a
+------- root b
+d------ root c
+root:/$ bye, root

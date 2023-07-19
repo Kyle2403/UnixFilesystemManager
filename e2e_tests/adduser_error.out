@@ -1,0 +1,4 @@
+root:/$ root:/$ adduser: The user already exists
+root:/$ ky:/$ adduser: Operation not permitted
+ky:/$ adduser: Invalid syntax
+ky:/$ bye, ky
